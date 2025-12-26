@@ -22,7 +22,7 @@ The dashboard provides an India-level overview and selected-state insights to he
 - Dynamic insights for highest and lowest crime types in selected state
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Images/image.2.png)
+![Dashboard Preview](https://github.com/Vigneshyadav001/Crime-Analysis-India/blob/main/Crime-Analysis-India/Images/image.2.png)
 
 ## 📁 Dataset
 The dataset used contains crime statistics across Indian states and crime categories.
